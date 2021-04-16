@@ -6,6 +6,13 @@
 
 <img src="https://i.imgur.com/Ol7uYSk.png">
 
+sumarize(): Nos da el resumen del nombre, objetivo y duración de la iteración o el estudiante dependiendo de que tipo de synthetizer
+getName(): Obtiene el nombre del esstudiante
+getObjective(): Obtiene el objetivo de la iteración.
+getDuration(): Obtiene la duración del estudiante o la iteración:
+isStudentSynthesizer(code:int):boolean: dice si el typo de synthesizer es de estudiante
+isExecutiveynthesizer(code:int):boolean: dice si el typo de synthesizer es de estudiante
+
 **EXTENDIENDO**
 1. Realice los cambios necesarios en el diagrama de clases en dónde se indique que una actividad podra tener dependencias a otras actividades o iteraciones.
 
