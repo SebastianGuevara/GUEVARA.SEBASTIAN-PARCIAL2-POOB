@@ -163,7 +163,7 @@ public class ProjectTest {
         new NormalActivity(faker.team().name(), Activity.ACTIVE_STATE, iteration);
     }
 
-    private void setupBadFormedProject4() {
+    private void    setupBadFormedProject4() {
 
         Group group = new Group(faker.team().name());
         badFormedProject4 = new Project(faker.team().name(), LocalDate.now().minusDays(10), LocalDate.now().plusDays(10), group);
