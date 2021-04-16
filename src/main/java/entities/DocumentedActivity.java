@@ -20,7 +20,9 @@ public class DocumentedActivity extends Activity {
     }
 
     @Override
-    public Duration getDuration() {
+    public Duration getDuration()
+    {
+        activity.getDuration();
         return null;
     }
 }
