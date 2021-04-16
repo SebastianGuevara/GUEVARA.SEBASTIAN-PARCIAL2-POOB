@@ -1,3 +1,9 @@
+**DISEÑO**
+<img src="https://i.imgur.com/nR9zoRB.png">
+
+<img src="https://i.imgur.com/120ktzT.png">
+
+**CONCEPTOS**
 1.	¿Cuáles son las acciones los tres momentos importantes de las excepciones? ¿Cuál es el objetivo de cada una? ¿Cómo se implementa en Java cada acción?.
 -	Lo tres momentos mas importantes de las excepciones es cuando se lanza la excepción, cuando se captura la excepción y cuando se atrapa la excepción.
 -	El objetivo de tirar la excepción es comunicar a el usuario que hay una excepción en su código, se propaga debido a que se quiere controlar la excepción que fue lanzada.  Finalmente se atrapa debido a que se tiene que controlar la excepción, y en este momento se controla la excepción lanzada.
