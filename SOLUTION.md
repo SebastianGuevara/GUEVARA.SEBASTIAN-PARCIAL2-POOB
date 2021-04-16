@@ -1,7 +1,7 @@
 **DISEÑO**
 <img src="https://i.imgur.com/nR9zoRB.png">
 
-<img src="https://i.imgur.com/120ktzT.png">
+<img src="https://i.imgur.com/Ol7uYSk.png">
 
 **CONCEPTOS**
 1.	¿Cuáles son las acciones los tres momentos importantes de las excepciones? ¿Cuál es el objetivo de cada una? ¿Cómo se implementa en Java cada acción?.
