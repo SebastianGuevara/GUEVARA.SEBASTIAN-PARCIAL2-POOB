@@ -3,6 +3,17 @@
 
 <img src="https://i.imgur.com/Ol7uYSk.png">
 
+**EXTENDIENDO**
+1. Realice los cambios necesarios en el diagrama de clases en dónde se indique que una actividad podra tener dependencias a otras actividades o iteraciones.
+
+<img src="https://i.imgur.com/U628W3R.png">
+
+2. De los diseños resultantes del punto I y II, ¿Qué debe cambiar? ¿Qué no debe cambiar?. Justifique su respuesta.
+- Debo cambiar la cantidad de clases, debido a que hay que agregar dos nuevas clases una de prerrquisitos y otra de las dependencias como tal. Esto lo hay que hacer ya que nos dicen que las dependencias es un requerimiento, por lo tanto si las actividades tienen varios requerimientos, por logica tambien podria tener varios dependencias. Ademas en el método de dependencias hay que agregar el método de printEstimatedEndDate para notificar la fecha dinal de la dependencia.
+
+3. Teniendo en cuenta los cambios necesarios ¿Que fue bueno y que fue malo de su diseño?
+- Yo creo que lo bueno de mi diseño es que hay herencia por lo tanto el mantenimiento del código sería mas eficiente ya que prevengo de repetir atributos y métodos entre varios métodos. Pero como todo lo bueno tiene su lado malo, y yo creo que se puede solucionar este problema de una manera mas eficiente.
+
 **CONCEPTOS**
 1.	¿Cuáles son las acciones los tres momentos importantes de las excepciones? ¿Cuál es el objetivo de cada una? ¿Cómo se implementa en Java cada acción?.
 -	Lo tres momentos mas importantes de las excepciones es cuando se lanza la excepción, cuando se captura la excepción y cuando se atrapa la excepción.
